@@ -1,7 +1,7 @@
 <img src="https://octodex.github.com/images/labtocat.png" height = "180" align="center"> Welcome to the Coding Collective™
 --------
 
-The Coding Collective™ is a weekly gathering for people that want to code, learn to code, help others learn, and/or collaborate on programming. We meet Wendesday at 4-6pm (in LSA 2002). This is by no means a formal gathering and people can come/go whenever. All programming languages and skill levels are welcome.
+The Coding Collective™ is a weekly gathering for people that want to code, learn to code, help others learn, and/or collaborate on programming. We meet Wendesday at 4-6pm (in LSA 2002). This is by no means a formal gathering. All programming languages and skill levels are welcome.
 
 By having a time and a place set aside for focusing on writing code, you hopefully will feel more motivated to consistently develop your programming skills and be able to help each other work through obstacles.
 
