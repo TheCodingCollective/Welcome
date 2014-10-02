@@ -1,7 +1,5 @@
-<img src="https://octodex.github.com/images/labtocat.png" height = "180" align="center">
-
-Welcome to the Coding Collective™
-=======
+<img src="https://octodex.github.com/images/labtocat.png" height = "180" align="center"> Welcome to the Coding Collective™
+--------
 
 The Coding Collective™ is a weekly gathering for people that want to code, learn to code, help others learn, and/or collaborate on programming. Starting tomorrow, we will meet Wendesday at 4-6pm (in LSA 2002). This is by no means a formal gathering and people can come/go whenever. All programming languages and skill levels are welcome.
 
