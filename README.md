@@ -1,3 +1,5 @@
+<img src="https://octodex.github.com/images/labtocat.png" height = "180" align="center">
+
 Welcome to the Coding Collective™
 =======
 
