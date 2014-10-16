@@ -12,3 +12,5 @@ The only requirement to join is to want to learn. Come with a project mind, join
 Science Bonus: Programming is more fun than pipetting.
 
 [Visit the wiki to learn more](https://github.com/TheCodingCollective/Welcome/wiki/First-few-weeks)
+
+*Octocat Scientist by*: [@JohnCreek](https://github.com/JohnCreek)
