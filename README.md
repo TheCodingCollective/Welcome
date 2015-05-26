@@ -13,7 +13,7 @@ Science Bonus: Programming is more fun than pipetting.
 
 ##Start
 
-[Visit the wiki to learn more](https://github.com/TheCodingCollective/Welcome/wiki/First-few-weeks).  This is where we add resources and discuss what we did or plan to do each week.
+[Visit the wiki to learn more](https://github.com/TheCodingCollective/Welcome/wiki).  This is where we add resources and discuss what we did or plan to do each week.
 
 Want to start a project with someone? Find a team and start discussing possible projects in [issues](https://github.com/TheCodingCollective/Welcome/issues).
 ##Credits
